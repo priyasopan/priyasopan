@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyasopan
 - I’m interested in building small projects
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning mysql, cloud computing and CSS
 
 
 <!---
